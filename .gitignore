@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,linux,windows,visualstudiocode,c++,python,intellij,visualstudio,eclipse,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,linux,windows,visualstudiocode,c++,python,intellij,visualstudio,eclipse,vim
 
+# Personal file
+.env
+config.*
+
 ### C++ ###
 # Prerequisites
 *.d
